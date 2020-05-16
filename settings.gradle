@@ -1,0 +1,2 @@
+rootProject.name='chaincalculator'
+include ':app'
